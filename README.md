@@ -1,1 +1,3 @@
-# multithread-sort
+Multicast 
+- total ordering
+- fifo ordering
